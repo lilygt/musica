@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre" : "Movistar Arena",
+        "artista" : "Abel Pintos",
+        "genero" : "Pop",
+        "id_ubicacion" : "Buenos Aires",
+        "hora_inicio" : "20:00",
+        "hora_fin" : "23:00",
+        "descripcion":"excelente",
+        "imagen" : "imagen1"
+    
+    },
+    {
+        "id":2,
+        "nombre" : "Cafayate",
+        "artista" : "Chaquenio Palavecino",
+        "genero" : "Folclore",
+        "id_ubicacion" : "Salta",
+        "hora_inicio" : "20:00",
+        "hora_fin" : "23:00",
+        "descripcion":"excelente",
+        "imagen" : "imagen2"
+    },
+    {
+        "id":3,
+        "nombre" : "Viña del Mar",
+        "artista" : "Lali Esposito",
+        "genero" : "Pop",
+        "id_ubicacion" : "Chile",
+        "hora_inicio" : "20:00",
+        "hora_fin" : "23:00",
+        "descripcion":"excelente",
+        "imagen" : "imagen3"
+    },
+    {
+        "id":4,
+        "nombre" : "La carpa de los Tekis",
+        "artista" : "Los Tekis",
+        "genero" : "Norteña",
+        "id_ubicacion" : "Jujuy",
+        "hora_inicio" : "20:00",
+        "hora_fin" : "23:00",
+        "descripcion":"excelente",
+        "imagen" : "imagen4"
+    },
+    {
+        "id":5,
+        "nombre" : "Festival de Guemes",
+        "artista" : "Sergio Galleguillo",
+        "genero" : "Folclore",
+        "id_ubicacion" : "Salta",
+        "hora_inicio" : "20:00",
+        "hora_fin" : "23:00",
+        "descripcion":"excelente",
+        "imagen" : "imagen5"
+    }
+]
